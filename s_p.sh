@@ -1,1 +1,1 @@
-ech "skill-up jenkins project v-06"
+echo "skill-up jenkins project v-07"
