@@ -1,1 +1,1 @@
-ech "skill-up jenkins project v-05"
+ech "skill-up jenkins project v-06"
